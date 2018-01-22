@@ -1,0 +1,67 @@
+body{
+    background-color: forestgreen;
+}
+
+h1{
+    text-align: center;
+    background-color: peru;
+    color: aqua;
+}
+
+h2{
+    background-color: blue;
+    text-align: center;
+}
+
+h3{
+    background-color: blueviolet;
+    color: yellow;
+}
+
+div{
+    color: aqua;
+
+}
+
+p{
+    text-align: center;
+}
+
+.jumbotron{
+    background-color: brown;
+}
+.container{
+    background-color: blueviolet;
+}
+
+pre{
+    background-color:brown ;
+    text-decoration-color: aqua;
+}
+
+code{
+    color: red;
+    background-color: aqua;
+    text-align: center;
+}
+ul {
+    color: blue;
+    border-color: yellow;
+}
+li{
+    text-align: center;
+    color: red;
+    background-color: blue;
+}
+.REGISTRATION{
+    text-align: center;
+}
+.dropdown{
+    color: forestgreen;
+    background-color: blueviolet;
+
+}
+
+form{
+    text-align: center;
+}
